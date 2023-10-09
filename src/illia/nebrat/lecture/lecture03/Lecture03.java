@@ -1,4 +1,4 @@
-package ua.hillel.lessons.lecture03;
+package illia.nebrat.lecture.lecture03;
 
 import java.util.Scanner;
 

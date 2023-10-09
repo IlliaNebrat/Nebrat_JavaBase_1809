@@ -1,4 +1,4 @@
-package ua.hillel.lessons.lecture02;
+package illia.nebrat.lecture.lecture02;
 
 public class FloatDemo {
     public static void main(String[] args) {
