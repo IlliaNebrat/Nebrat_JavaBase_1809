@@ -1,8 +1,7 @@
 package illia.nebrat.homework.point;
 
 public class PointRun {
-
-        public static void main(String[] args) throws CloneNotSupportedException {
+    public static void main(String[] args) throws CloneNotSupportedException {
         Point firstPoint = new Point(0, 0);
         Point secondPoint = new Point(3, 4);
 
