@@ -14,6 +14,6 @@ class Iphones implements Smartphones, IOS {
     }
 
     public void runIOS() {
-        System.out.println("Using run iOS on an iPhone...");
+        System.out.println("Running iOS on an iPhone...");
     }
 }
